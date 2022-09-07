@@ -21,8 +21,11 @@
 7) Criar o arquivo .wslconfig em "C:\Users\<seu_usuario>"
 
     [wsl2]
+    
     memory=8GB
+    
     processors=4
+    
     swap=2GB
 
 8) Instalar o Docker
