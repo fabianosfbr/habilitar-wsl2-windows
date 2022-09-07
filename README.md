@@ -25,7 +25,6 @@
     memory=8GB
     
     processors=4
-    
     swap=2GB
 
 8) Instalar o Docker
